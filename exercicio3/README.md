@@ -13,3 +13,6 @@ c) Crie uma função que recebe por parâmetro o terceiro array e remova o **seg
 
 
 **Obs:** copie os arrays criados no exercício 1 para dentro do arquivo *script.js* do exercício 3.
+
+
+
